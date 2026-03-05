@@ -12,11 +12,6 @@ Dies ist meine Klonversion von Tetris, erstellt mit Python3 und Pygame.
 Es sollte ein funktionierendes und optisch einigermassen ansprechendes Spiel entstehen.
 
 
-Starten unter Windows
-
-Mit CX-Freeze wurde eine auf Windows spielbare Version erstellt. https://cx-freeze.readthedocs.io Diese ist in build/tetr_x_win zu finden und kann mit tetrx.exe gestartet werden.
-
-
 Installation auf Linux
 
 System Updaten
