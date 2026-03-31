@@ -25,7 +25,7 @@ As a personal challenge, I tried to solve coding problems with minimal external 
 
 <p>
   <img src="./assets/title.png" width="35%" style="margin-right: 20px;" />
-  <img src="./assets/trx_1.gif" width="25%" style="max-width: 640px; height: auto;" />
+  <img src="./assets/trx_1.gif" width="30%" style="max-width: 640px; height: auto;" />
 </p>
 
 ## How to Run
@@ -67,8 +67,8 @@ If you wish to run the code directly on Linux via Terminal, follow these steps:
 **For detailed documentation, including screenshots, please refer to the German documentation in the docs folder.**
 
 <p>
-  <img src="./assets/trx_2.gif" width="25%" style="margin-right: 20px;" />
-  <img src="./assets/trx_3.gif" width="25%" style="max-width: 640px; height: auto;" />
+  <img src="./assets/trx_2.gif" width="30%" style="margin-right: 20px;" />
+  <img src="./assets/trx_3.gif" width="30%" style="max-width: 640px; height: auto;" />
 </p>
 
 
